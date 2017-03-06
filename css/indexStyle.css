@@ -1,0 +1,75 @@
+
+.wrapp {
+	/*для лица*/
+	background-image: url(../images/head.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#wrapper {
+	margin-left: 174px;
+	/*width: 1000px;
+	height: 600px;*/
+}
+
+.borderSolid {
+	border: 1px solid black;
+	height: 600px;
+	width: 1000px;
+}
+
+/*для бороды*/
+#imageBeard {
+	position: fixed;
+	top: 40px;
+	left: 950px;
+}
+
+/*для бровей*/
+#imageEyebrows {
+	position: fixed;
+	top: 40px;
+	left: 600px;
+}
+
+/*для глаз*/
+#imageEyes {
+	position: fixed;
+	top: 520px;
+	left: 600px;
+}
+
+/*для очков*/
+#imageGalsses {
+	position: fixed;
+	top: 320px;
+	left: 950px;
+}
+
+/*для волос*/
+#imageHair {
+	position: fixed;
+	top: 40px;
+	left: 250px;
+}
+
+/*для губ*/
+#imageLips {
+	position: fixed;
+	top: 520px;
+	left: 950px;
+}
+
+/*для усов*/
+#imageMustache {
+	position: fixed;
+	top: 500px;
+	left: 200px;
+}
+
+/*для усов*/
+#imageNouse {
+	position: fixed;
+	top: 320px;
+	left: 300px;
+}
